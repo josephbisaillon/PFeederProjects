@@ -1,0 +1,14 @@
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\bin\Debug\ElephantServer.exe.config
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\bin\Debug\ElephantServer.exe
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\bin\Debug\ElephantServer.pdb
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\obj\Debug\ElephantServer.csprojResolveAssemblyReference.cache
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\obj\Debug\MainWindow.baml
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\obj\Debug\MainWindow.g.cs
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\obj\Debug\App.g.cs
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\obj\Debug\ElephantServer_MarkupCompile.cache
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\obj\Debug\ElephantServer.g.resources
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\obj\Debug\ElephantServer.Properties.Resources.resources
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\obj\Debug\ElephantServer.csproj.GenerateResource.Cache
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\obj\Debug\ElephantServer.exe
+C:\Users\SharePoint\Documents\Visual Studio 2013\Projects\PFeederProjects\ElephantServer\obj\Debug\ElephantServer.pdb
+C:\Users\Joseph\Documents\GitHub\PFeederServerApps\PFeederProjects\ElephantServer\bin\Debug\ElephantServer.exe.config
